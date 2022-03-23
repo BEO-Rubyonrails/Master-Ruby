@@ -11,8 +11,8 @@ end
 
 def tam_giac_can(l)
 
-  for x in 0..l - 1
-    for y in 0..l - 1 + x
+  for x in 0...l - 1
+    for y in 0...l - 1 + x
       if y >= l - 1 - x
         print "*"
       else
@@ -62,7 +62,10 @@ def menu
     end
   when "3"
     puts "- - - - Kết quả - - - -"
-    puts "#{tam_giac_vuong(5)}"
+    puts "mời bạn nhập chiều cao"
+    puts "chiều cao : #{a = gets.chomp.to_i}"
+
+    puts "#{tam_giac_vuong(a)}"
 
     puts "- - - - - - - - - - - -"
     puts "Nhập y để quay lại menu chính. Nhập ký tự khác để thoát."
@@ -72,7 +75,8 @@ def menu
     end
   when "4"
     puts "---- KẾT QUẢ ----\n"
-    puts "nhap them do dai"
+    puts "mời bạn nhập chiều cao"
+    puts "chiều cao : #{a = gets.chomp.to_i}"
     puts "- - - - - - - - - - - -"
     puts "Nhập y để quay lại menu chính. Nhập ký tự khác để thoát."
     m = gets.chomp

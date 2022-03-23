@@ -60,8 +60,11 @@ def menu
       menu
     end
   when "3"
+
+    puts "mời bạn nhập chiều cao"
+    puts "chiều cao : #{a = gets.chomp.to_i}"
     puts "- - - - Kết quả - - - -"
-    puts "#{tam_giac_vuong(5)}"
+    puts "#{tam_giac_vuong(a)}"
 
     puts "- - - - - - - - - - - -"
     puts "Nhập y để quay lại menu chính. Nhập ký tự khác để thoát."
@@ -70,8 +73,11 @@ def menu
       menu
     end
   when "4"
+
+    puts "mời bạn nhập chiều cao"
+    puts "chiều cao : #{a = gets.chomp.to_i}"
     puts "---- KẾT QUẢ ----\n"
-    puts "#{tam_giac_can(5)}"
+    puts "#{tam_giac_can(a)}"
 
     puts "- - - - - - - - - - - -"
     puts "Nhập y để quay lại menu chính. Nhập ký tự khác để thoát."
@@ -119,8 +125,12 @@ def menu
         end
         break
       when "3"
-        puts "- - - - Kết quả - - - -"
-        puts "#{tam_giac_vuong(5)}"
+
+        puts "mời bạn nhập chiều cao"
+        puts "chiều cao : #{a = gets.chomp.to_i}"
+        puts "---- KẾT QUẢ ----\n"
+        puts "#{tam_giac_vuong(a)}"
+
 
         puts "- - - - - - - - - - - -"
         puts "Nhập y để quay lại menu chính. Nhập ký tự khác để thoát."
@@ -130,8 +140,11 @@ def menu
         end
         break
       when "4"
+
+        puts "mời bạn nhập chiều cao"
+        puts "chiều cao : #{a = gets.chomp.to_i}"
         puts "---- KẾT QUẢ ----\n"
-        puts "#{tam_giac_can(5)}"
+        puts "#{tam_giac_can(a)}"
 
         puts "- - - - - - - - - - - -"
         puts "Nhập y để quay lại menu chính. Nhập ký tự khác để thoát."

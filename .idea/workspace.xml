@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="260be626-71a2-4051-b576-5385baaf5c1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Rubypj/sum even number.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rubypj/Fizzbuzz.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rubypj/print number digits.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rubypj/menu du phong.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Rubypj/menu du phong.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rubypj/menu.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Rubypj/menu.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +30,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rubypj/SumOfEvenNumbers.rb">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rubypj/menu du phong.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-646">
+              <caret line="79" column="34" lean-forward="true" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rubypj/menu.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Rubypj/print number digits.rb">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -59,10 +89,14 @@
         <option value="$PROJECT_DIR$/Rubypj/sum_even_number.rb" />
         <option value="$PROJECT_DIR$/Rubypj/sum even number.rb" />
         <option value="$PROJECT_DIR$/Rubypj/SumOfEvenNumbers.rb" />
+        <option value="$PROJECT_DIR$/Rubypj/menu du phong.rb" />
+        <option value="$PROJECT_DIR$/Rubypj/menu.rb" />
+        <option value="$PROJECT_DIR$/Rubypj/Fizzbuzz.rb" />
+        <option value="$PROJECT_DIR$/Rubypj/print number digits.rb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -114,7 +148,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.SumOfEvenNumbers">
+  <component name="RunManager" selected="Ruby.print number digits">
+    <configuration name="Fizzbuzz" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="untitled2" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Rubypj" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Rubypj/Fizzbuzz.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SumOfEvenNumbers" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="untitled2" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -129,31 +177,31 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="menu" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="menu du phong" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="untitled2" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Rubypj" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/menu.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Rubypj/menu du phong.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="sda" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="print number digits" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="untitled2" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Rubypj" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/sda.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Rubypj/print number digits.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -171,27 +219,13 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum_even_number" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="untitled2" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Rubypj" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Rubypj/sum_even_number.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.print number digits" />
+        <item itemvalue="Ruby.Fizzbuzz" />
+        <item itemvalue="Ruby.menu du phong" />
         <item itemvalue="Ruby.SumOfEvenNumbers" />
         <item itemvalue="Ruby.sum even number" />
-        <item itemvalue="Ruby.sum_even_number" />
-        <item itemvalue="Ruby.menu" />
-        <item itemvalue="Ruby.sda" />
       </list>
     </recent_temporary>
   </component>
@@ -217,12 +251,12 @@
       <workItem from="1648014368458" duration="1108000" />
       <workItem from="1648015507000" duration="12000" />
       <workItem from="1648015536291" duration="605000" />
-      <workItem from="1648017911322" duration="2524000" />
+      <workItem from="1648017911322" duration="5430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23657000" />
+    <option name="totallyTimeSpent" value="26563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -253,11 +287,14 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ruby@Fizzbuzz.rcov" NAME="Fizzbuzz Coverage Results" MODIFIED="1648024037980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rubypj" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/untitled2@bai_2.rcov" NAME="bai 2 Coverage Results" MODIFIED="1647791700534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled2" />
-    <SUITE FILE_PATH="coverage/Ruby@SumOfEvenNumbers.rcov" NAME="SumOfEvenNumbers Coverage Results" MODIFIED="1648020538500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rubypj" MODULE_NAME="untitled2" />
+    <SUITE FILE_PATH="coverage/Ruby@SumOfEvenNumbers.rcov" NAME="SumOfEvenNumbers Coverage Results" MODIFIED="1648021981158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rubypj" MODULE_NAME="untitled2" />
+    <SUITE FILE_PATH="coverage/Ruby@print_number_digits.rcov" NAME="print number digits Coverage Results" MODIFIED="1648024379772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rubypj" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/Ruby@sum_even_number.rcov" NAME="sum even number Coverage Results" MODIFIED="1648020446887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rubypj" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/untitled2@bai_1.rcov" NAME="bai 1 Coverage Results" MODIFIED="1647794051825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/untitled2@menu.rcov" NAME="menu Coverage Results" MODIFIED="1648014906726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled2" />
+    <SUITE FILE_PATH="coverage/Ruby@menu_du_phong.rcov" NAME="menu du phong Coverage Results" MODIFIED="1648023580666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rubypj" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/untitled2@sda.rcov" NAME="sda Coverage Results" MODIFIED="1647966466579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled2" />
   </component>
   <component name="editorHistoryManager">
@@ -285,8 +322,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rubypj/SumOfEvenNumbers.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rubypj/menu du phong.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="79" column="34" lean-forward="true" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rubypj/Fizzbuzz.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rubypj/menu.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rubypj/print number digits.rb">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
